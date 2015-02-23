@@ -1,7 +1,7 @@
 # CountFequencyofWordsInSubtitles
 A simple program to find the most fequent words in a set of subtitles files
 
-######### how to run #######3
+######### how to run #######
 
 1. in Main.java set following variables to paths of files/dirs
 
